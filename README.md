@@ -1,9 +1,3 @@
-Here’s your **final, ready-to-paste `README.md` file** — perfectly formatted for GitHub or submission.
-Just copy and paste it directly into your repository. ✅
-
----
-
-```markdown
 # MilestoneEscrow Smart Contract
 
 A decentralized escrow system for milestone-based freelance payments built on Ethereum. This smart contract enables secure, trustless transactions between clients and freelancers with built-in dispute resolution.
